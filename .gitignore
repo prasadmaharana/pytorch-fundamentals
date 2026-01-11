@@ -1,3 +1,4 @@
 pytorch
 __pycache__/
 plants_dataset/
+cifar_100
